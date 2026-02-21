@@ -5,7 +5,11 @@ Objective - This testing was to validate the functionality and usability of the 
 Testing Approach:
 
 Functional testing
+
 End-to-End Testing
+
 Negative Testing
+
 UI/UX Validation
+
 Exploratory Testing
